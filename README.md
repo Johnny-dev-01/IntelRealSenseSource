@@ -6,10 +6,13 @@
  
  This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) - see the LICENSE file for details.
 
-[![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
- 
 
 ## Building from Source
 [Intel RealSense Build Guide](https://github.com/IntelRealSense/librealsense/tree/development/wrappers/python).
+
+
+
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+ 
 
 
