@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\easyloggingpp\src\easylogging++.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\configure-elpp-logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\crc32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\dispatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\ensure-console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\executable-name.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\float3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\from.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\hexarray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\hexdump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\ip-address.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\json.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\make-less-screamy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\os.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\shorten-json-string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\special-folder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\src\work-week.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\easyloggingpp\src\easylogging++.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\concurrency\concurrency.h">
+      <Filter>Header Files\concurrency</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\deferred.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\easylogging\easyloggingpp.h">
+      <Filter>Header Files\easylogging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\json-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\json-fwd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\json.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\lazy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\number\crc32.h">
+      <Filter>Header Files\number</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\number\float3.h">
+      <Filter>Header Files\number</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\number\running-average.h">
+      <Filter>Header Files\number</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\number\stabilized-value.h">
+      <Filter>Header Files\number</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\os\ensure-console.h">
+      <Filter>Header Files\os</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\os\executable-name.h">
+      <Filter>Header Files\os</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\os\hresult.h">
+      <Filter>Header Files\os</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\os\os.h">
+      <Filter>Header Files\os</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\os\special-folder.h">
+      <Filter>Header Files\os</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\py\json.h">
+      <Filter>Header Files\py</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\py\pybind11.h">
+      <Filter>Header Files\py</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\shared-ptr-singleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\signal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\chrono.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\ellipsis.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\from.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\hexarray.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\hexdump.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\ip-address.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\make-less-screamy.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\nocase.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\shorten-json-string.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\slice.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\split.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\string-utilities.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\trim-newlines.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\string\windows.h">
+      <Filter>Header Files\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\subscription.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\time\common.h">
+      <Filter>Header Files\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\time\periodic-timer.h">
+      <Filter>Header Files\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\time\stopwatch.h">
+      <Filter>Header Files\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\time\timer.h">
+      <Filter>Header Files\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\time\waiting-on.h">
+      <Filter>Header Files\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\time\work-week.h">
+      <Filter>Header Files\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\include\rsutils\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\rsutils\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{16554D9F-BA45-33E5-8228-5317D97E9E3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\concurrency">
+      <UniqueIdentifier>{5E20A768-3391-39C2-B5E4-E68D90FDEAC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\easylogging">
+      <UniqueIdentifier>{28A8E97D-DCEB-3E67-9E3C-57D7723B74CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\number">
+      <UniqueIdentifier>{D473F4D6-68E2-3246-8046-C8658AFEF239}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\os">
+      <UniqueIdentifier>{74BDB35C-A9DA-308A-B05E-396772991807}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\py">
+      <UniqueIdentifier>{D6932445-2659-3E15-8DBB-48387992BBAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\string">
+      <UniqueIdentifier>{7F341529-DED1-33B8-87D9-5D53F688CA21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\time">
+      <UniqueIdentifier>{35FB3E0A-5F37-3623-996D-1E23F46D3093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1D30A0B4-33F9-3622-87B4-DC4D39F01E1C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

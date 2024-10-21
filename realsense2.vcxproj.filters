@@ -1,0 +1,1362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\matcher-factory.cpp">
+      <Filter>Source Files\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\notification.cpp">
+      <Filter>Source Files\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-container.cpp">
+      <Filter>Source Files\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-registry.cpp">
+      <Filter>Source Files\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-watcher.cpp">
+      <Filter>Source Files\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-options.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-private.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-motion.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-nonmonochrome.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-device.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-color.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-active.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-factory.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-fw-update-device.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-auto-calibration.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-thermal-monitor.cpp">
+      <Filter>Source Files\src\ds\d400</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-device.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-color.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-motion.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-active.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-private.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-factory.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\hw_monitor_extended_buffers.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-options.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-fw-update-device.cpp">
+      <Filter>Source Files\src\ds\d500</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-device-common.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-motion-common.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-color-common.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-active-common.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-private.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-timestamp.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-options.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\advanced_mode\rs_advanced_mode.cpp">
+      <Filter>Source Files\src\ds\advanced_mode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\advanced_mode\presets.cpp">
+      <Filter>Source Files\src\ds\advanced_mode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\advanced_mode\advanced_mode.cpp">
+      <Filter>Source Files\src\ds\advanced_mode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-calib-parsers.cpp">
+      <Filter>Source Files\src\ds</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\amplitude-factor-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\emitter-frequency-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\auto-exposure-roi-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\remove-ir-pattern-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\auto-exposure-limit-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\gain-limit-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\gyro-sensitivity-feature.cpp">
+      <Filter>Source Files\src\ds\features</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\record\record_device.cpp">
+      <Filter>Source Files\src\media\record</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\record\record_sensor.cpp">
+      <Filter>Source Files\src\media\record</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\playback\playback_device.cpp">
+      <Filter>Source Files\src\media\playback</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\playback\playback_sensor.cpp">
+      <Filter>Source Files\src\media\playback</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\ros\ros_reader.cpp">
+      <Filter>Source Files\src\media\ros</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\ros\ros_writer.cpp">
+      <Filter>Source Files\src\media\ros</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\sse\sse-align.cpp">
+      <Filter>Source Files\src\proc\sse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\sse\sse-pointcloud.cpp">
+      <Filter>Source Files\src\proc\sse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\processing-blocks-factory.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\align.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\colorizer.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\pointcloud.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\occlusion-filter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\synthetic-stream.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\syncer-processing-block.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\decimation-filter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\spatial-filter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\temporal-filter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\hdr-merge.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\sequence-id-filter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\hole-filling-filter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\disparity-transform.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y8i-to-y8y8.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y12i-to-y16y16.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y12i-to-y16y16-mipi.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y16i-to-y10msby10msb.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\identity-processing-block.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\threshold.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\rates-printer.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\units-transform.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\rotation-transform.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\color-formats-converter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\depth-formats-converter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\motion-transform.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\auto-exposure-processor.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y411-converter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\formats-converter.cpp">
+      <Filter>Source Files\src\proc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\pipeline.cpp">
+      <Filter>Source Files\src\pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\config.cpp">
+      <Filter>Source Files\src\pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\profile.cpp">
+      <Filter>Source Files\src\pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\aggregator.cpp">
+      <Filter>Source Files\src\pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-log-data.cpp">
+      <Filter>Source Files\src\fw-logs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-logs-formating-options.cpp">
+      <Filter>Source Files\src\fw-logs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-logs-parser.cpp">
+      <Filter>Source Files\src\fw-logs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-logs-xml-helper.cpp">
+      <Filter>Source Files\src\fw-logs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-string-formatter.cpp">
+      <Filter>Source Files\src\fw-logs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-device.cpp">
+      <Filter>Source Files\src\fw-update</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-factory.cpp">
+      <Filter>Source Files\src\fw-update</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-unsigned.cpp">
+      <Filter>Source Files\src\fw-update</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\win\win-helpers.cpp">
+      <Filter>Source Files\src\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\interface-winusb.cpp">
+      <Filter>Source Files\src\winusb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\device-winusb.cpp">
+      <Filter>Source Files\src\winusb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\enumerator-winusb.cpp">
+      <Filter>Source Files\src\winusb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\messenger-winusb.cpp">
+      <Filter>Source Files\src\winusb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\request-winusb.cpp">
+      <Filter>Source Files\src\winusb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\mf\mf-uvc.cpp">
+      <Filter>Source Files\src\mf</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\mf\mf-hid.cpp">
+      <Filter>Source Files\src\mf</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\mf\mf-backend.cpp">
+      <Filter>Source Files\src\mf</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\algo.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\archive.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\backend.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\backend-device-factory.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\context.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\device.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\device-info.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\device_hub.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\environment.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\error-handling.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\firmware_logger_device.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\global_timestamp_reader.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\hdr-config.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\hw-monitor.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\image.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\image-avx.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\log.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\option.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform-camera.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\rs.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\sensor.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\hid-sensor.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\uvc-sensor.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\rscore-pp-block-factory.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\software-device.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\software-device-info.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\software-sensor.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\source.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\stream.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\sync.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\terminal-parser.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\types.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\verify.c">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\serialized-utilities.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\frame.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\points.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\to-string.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\platform-utils.cpp">
+      <Filter>Source Files\src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\uvc-option.cpp">
+      <Filter>Source Files\src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\synthetic-options-watcher.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\easyloggingpp\src\easylogging++.cc">
+      <Filter>Source Files\third-party\easyloggingpp\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\rs.hpp">
+      <Filter>Header Files\include\librealsense2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\rs.h">
+      <Filter>Header Files\include\librealsense2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_types.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_context.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_device.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_frame.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_option.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_processing.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_record_playback.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_sensor.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_internal.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_pipeline.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_config.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\h\rs_advanced_mode_command.h">
+      <Filter>Header Files\include\librealsense2\h</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_types.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_context.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_device.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_serializable_device.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_export.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_frame.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_processing.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_record_playback.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_sensor.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_options.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_internal.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\hpp\rs_pipeline.hpp">
+      <Filter>Header Files\include\librealsense2\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\rsutil.h">
+      <Filter>Header Files\include\librealsense2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\rs_advanced_mode.h">
+      <Filter>Header Files\include\librealsense2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2\rs_advanced_mode.hpp">
+      <Filter>Header Files\include\librealsense2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\debug.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\advanced_mode.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\enum-helpers.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\depth-frame.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\device-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\disparity-frame.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-continuation.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-additional-data.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-callback.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-header.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-holder.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\frame-processor-callback.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\info-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\roi.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\matcher-factory.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\motion.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\motion-frame.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\notification.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\video.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\video-frame.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-container.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-registry.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\options-watcher.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\info.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\extension.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\pose-frame.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\pp-block-factory.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\processing-block-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\recommended-processing-blocks-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\sensor-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\serialization.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\stream-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\stream-profile.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\stream-profile-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\synthetic-source-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\tagged-profile.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\has-features-interface.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\features-container.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-info.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-device.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-options.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-private.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-active.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-motion.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-nonmonochrome.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-color.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-fw-update-device.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-auto-calibration.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d400\d400-thermal-monitor.h">
+      <Filter>Header Files\src\ds\d400</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-device.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-color.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-motion.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-active.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-private.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\hw_monitor_extended_buffers.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-options.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-info.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\d500\d500-fw-update-device.h">
+      <Filter>Header Files\src\ds\d500</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-device-common.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-motion-common.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-color-common.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-active-common.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-private.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-timestamp.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-options.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\advanced_mode\json_loader.hpp">
+      <Filter>Header Files\src\ds\advanced_mode</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\advanced_mode\presets.h">
+      <Filter>Header Files\src\ds\advanced_mode</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\ds-calib-parsers.h">
+      <Filter>Header Files\src\ds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\amplitude-factor-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\emitter-frequency-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\auto-exposure-roi-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\remove-ir-pattern-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\auto-exposure-limit-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\gain-limit-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\ds\features\gyro-sensitivity-feature.h">
+      <Filter>Header Files\src\ds\features</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\playback\playback-device-info.h">
+      <Filter>Header Files\src\media\playback</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\record\record_device.h">
+      <Filter>Header Files\src\media\record</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\record\record_sensor.h">
+      <Filter>Header Files\src\media\record</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\playback\playback_device.h">
+      <Filter>Header Files\src\media\playback</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\playback\playback_sensor.h">
+      <Filter>Header Files\src\media\playback</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\ros\ros_reader.h">
+      <Filter>Header Files\src\media\ros</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\ros\ros_writer.h">
+      <Filter>Header Files\src\media\ros</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\media\ros\ros_file_format.h">
+      <Filter>Header Files\src\media\ros</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\sse\sse-align.h">
+      <Filter>Header Files\src\proc\sse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\sse\sse-pointcloud.h">
+      <Filter>Header Files\src\proc\sse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\processing-blocks-factory.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\align.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\colorizer.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\pointcloud.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\occlusion-filter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\synthetic-stream.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\decimation-filter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\spatial-filter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\temporal-filter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\hdr-merge.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\sequence-id-filter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\hole-filling-filter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\syncer-processing-block.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\disparity-transform.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y8i-to-y8y8.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y12i-to-y16y16.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y12i-to-y16y16-mipi.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y16i-to-y10msby10msb.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\identity-processing-block.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\threshold.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\rates-printer.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\units-transform.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\rotation-transform.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\color-formats-converter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\depth-formats-converter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\motion-transform.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\auto-exposure-processor.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\y411-converter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\proc\formats-converter.h">
+      <Filter>Header Files\src\proc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\res\resource.h">
+      <Filter>Header Files\src\res</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\pipeline.h">
+      <Filter>Header Files\src\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\config.h">
+      <Filter>Header Files\src\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\profile.h">
+      <Filter>Header Files\src\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\resolver.h">
+      <Filter>Header Files\src\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\pipeline\aggregator.h">
+      <Filter>Header Files\src\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-endpoint.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-interface.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-messenger.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-types.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-device.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-enumerator.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\usb\usb-request.h">
+      <Filter>Header Files\src\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-log-data.h">
+      <Filter>Header Files\src\fw-logs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-logs-formating-options.h">
+      <Filter>Header Files\src\fw-logs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-logs-parser.h">
+      <Filter>Header Files\src\fw-logs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-logs-xml-helper.h">
+      <Filter>Header Files\src\fw-logs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-logs\fw-string-formatter.h">
+      <Filter>Header Files\src\fw-logs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-device-interface.h">
+      <Filter>Header Files\src\fw-update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-device.h">
+      <Filter>Header Files\src\fw-update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-factory.h">
+      <Filter>Header Files\src\fw-update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fw-update\fw-update-unsigned.h">
+      <Filter>Header Files\src\fw-update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\win\win-helpers.h">
+      <Filter>Header Files\src\win</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\handle-winusb.h">
+      <Filter>Header Files\src\winusb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\endpoint-winusb.h">
+      <Filter>Header Files\src\winusb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\interface-winusb.h">
+      <Filter>Header Files\src\winusb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\device-winusb.h">
+      <Filter>Header Files\src\winusb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\messenger-winusb.h">
+      <Filter>Header Files\src\winusb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\winusb\request-winusb.h">
+      <Filter>Header Files\src\winusb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\mf\mf-uvc.h">
+      <Filter>Header Files\src\mf</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\mf\mf-hid.h">
+      <Filter>Header Files\src\mf</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\mf\mf-backend.h">
+      <Filter>Header Files\src\mf</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\backend-device-factory.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\rscore\device-factory.h">
+      <Filter>Header Files\src\rscore</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\rscore-pp-block-factory.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\algo.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\api.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\archive.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\backend.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\backend-device.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\backend-device-group.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\platform-device-info.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\device-watcher.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\frame-object.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\hid-data.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\hid-device.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\hid-device-info.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\playback-device-info.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\platform-utils.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\stream-profile.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\stream-profile-impl.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\core\time-service.h">
+      <Filter>Header Files\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\uvc-device.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\uvc-device-info.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\uvc-option.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\context.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\device.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\device-info.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\device_hub.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\environment.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\firmware-version.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\float3.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\fourcc.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\log.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\error-handling.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\firmware_logger_device.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\frame-archive.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\global_timestamp_reader.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\hdr-config.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\hw-monitor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\image.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\image-avx.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\metadata.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\metadata-parser.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\option.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform-camera.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\pose.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\hid-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\uvc-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\software-device.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\software-device-info.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\software-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\source.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\stream.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\sync.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\terminal-parser.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\types.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\platform\command-transfer.h">
+      <Filter>Header Files\src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\auto-calibrated-device.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\device-calibration.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\serializable-interface.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\max-usable-range-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\debug-stream-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\serialized-utilities.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\frame.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\composite-frame.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\points.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\depth-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\color-sensor.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\callback-invocation.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\librealsense-exception.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\polling-device-watcher.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\small-heap.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\basics.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\feature-interface.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\synthetic-options-watcher.h">
+      <Filter>Header Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\easyloggingpp\src\easylogging++.h">
+      <Filter>Header Files\third-party\easyloggingpp\src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\librealsense\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{16554D9F-BA45-33E5-8228-5317D97E9E3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\include">
+      <UniqueIdentifier>{73EE6551-E882-3577-BF0B-E8A04FD96AFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\include\librealsense2">
+      <UniqueIdentifier>{C6B7AE3E-1070-3F79-A4E6-05861CBDE188}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\include\librealsense2\h">
+      <UniqueIdentifier>{A0465F5F-8B3C-3A7D-A540-F3BEC9135208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\include\librealsense2\hpp">
+      <UniqueIdentifier>{FF192F11-2A64-35C0-BF02-E886A0B33BC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src">
+      <UniqueIdentifier>{C43F4D0B-A49E-3EC4-8334-7C3B0B99BF98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\core">
+      <UniqueIdentifier>{2B9E6B65-741F-37EE-AA60-9111AF2633C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\ds">
+      <UniqueIdentifier>{8C9BDAB8-3EEC-3322-8EF0-55E9CDE86652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\ds\advanced_mode">
+      <UniqueIdentifier>{07E5E743-CAC9-3653-9663-F294940A491D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\ds\d400">
+      <UniqueIdentifier>{422F0E81-99C2-3BD7-8B4E-9F27A5A3C9D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\ds\d500">
+      <UniqueIdentifier>{52C32355-115E-3CFF-BD8A-E0D30709847D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\ds\features">
+      <UniqueIdentifier>{265715A6-DDD2-3B9E-97F3-9246EA278307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\fw-logs">
+      <UniqueIdentifier>{020D2E1F-2ACA-3783-A569-8C0D5862CDFE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\fw-update">
+      <UniqueIdentifier>{15529440-E359-356B-98B0-68CD3D70C152}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\media">
+      <UniqueIdentifier>{63A5B0FB-18B9-3E0B-BDC9-9EE56E8BDA57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\media\playback">
+      <UniqueIdentifier>{E91F8EDA-E38B-35C8-B55B-E90651742F3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\media\record">
+      <UniqueIdentifier>{906612A6-A779-391F-9845-29145F119AA0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\media\ros">
+      <UniqueIdentifier>{91C20C58-6415-30F8-9E92-8DB5DB6D35AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\mf">
+      <UniqueIdentifier>{E4C5AED9-56A3-3D19-9410-B513D6F5E10B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\pipeline">
+      <UniqueIdentifier>{E8D6E135-BF32-346D-88C2-5FD4888633E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\platform">
+      <UniqueIdentifier>{914BBA4B-CCAB-30EC-9372-67E8A2B94BC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\proc">
+      <UniqueIdentifier>{7AC96DAE-801B-38F2-AAD9-F442BB417558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\proc\sse">
+      <UniqueIdentifier>{5F3E3145-B33A-34D3-80A5-83196998B029}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\res">
+      <UniqueIdentifier>{789A8681-CEA0-30D2-8306-10AF69F318D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\rscore">
+      <UniqueIdentifier>{BBF688BB-E5B8-3119-A761-614AFD44D042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\usb">
+      <UniqueIdentifier>{2CE3E17E-52EA-3731-90C6-11F592988128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\win">
+      <UniqueIdentifier>{56DDCC38-59D4-33B2-8CDB-FE27A825570A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\src\winusb">
+      <UniqueIdentifier>{7E7BAE9B-579C-3CB0-9FAE-D6D62CF08049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\third-party">
+      <UniqueIdentifier>{07955949-762F-3B85-A79E-8DCE80610F79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\third-party\easyloggingpp">
+      <UniqueIdentifier>{1E172486-8C0B-3E52-9D65-32AFF764E584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\third-party\easyloggingpp\src">
+      <UniqueIdentifier>{332E85F9-9C42-3140-8208-7FF67ADC853F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1D30A0B4-33F9-3622-87B4-DC4D39F01E1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src">
+      <UniqueIdentifier>{D8949320-1B7F-31E0-B09A-88EA22614094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\core">
+      <UniqueIdentifier>{B3181A48-57B6-397C-817E-F6747E887DBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\ds">
+      <UniqueIdentifier>{89B2FCD3-FC83-3A77-889B-B5CE2FB0209B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\ds\advanced_mode">
+      <UniqueIdentifier>{10C97DAA-3E8B-3A86-89CC-1307F9901D2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\ds\d400">
+      <UniqueIdentifier>{9F04B81A-07DF-3531-A7DB-E46B12F996CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\ds\d500">
+      <UniqueIdentifier>{AE5C1B54-D161-35C8-A4A5-FDDA561E812B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\ds\features">
+      <UniqueIdentifier>{1585281A-01B3-349B-8BE1-693DD91FDB84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\fw-logs">
+      <UniqueIdentifier>{2D2CC6BA-2381-390E-AC89-B5435E5C5B20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\fw-update">
+      <UniqueIdentifier>{BA46CBD2-B0CA-34A7-8EC6-559B11D37D7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\media">
+      <UniqueIdentifier>{F108AD43-0F0D-3502-9096-A4B798D0EC1A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\media\playback">
+      <UniqueIdentifier>{61A6DC16-1C7E-30FC-BF73-30196ADA74F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\media\record">
+      <UniqueIdentifier>{90B9570D-D833-3E89-BF1F-4A4389B91C47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\media\ros">
+      <UniqueIdentifier>{1CEBAD40-4390-3B4E-BD1B-A20E56EB2F31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\mf">
+      <UniqueIdentifier>{2E584591-40A5-33AF-B4C9-A7387897AD35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\pipeline">
+      <UniqueIdentifier>{CC466E3D-DF51-3563-92C7-9186BD16F782}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\platform">
+      <UniqueIdentifier>{D13C02B1-E847-3B08-A45D-0271369780C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\proc">
+      <UniqueIdentifier>{BC056C01-C54D-3838-A7AA-C38F2E571F79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\proc\sse">
+      <UniqueIdentifier>{1CF83D0F-0067-3C09-AAE2-434A7FE0B651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\win">
+      <UniqueIdentifier>{6C1DEDDD-DA67-3E70-9D34-D7D004B936F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\src\winusb">
+      <UniqueIdentifier>{DAC940FB-60D2-3216-A0F1-E4594877C9D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\third-party">
+      <UniqueIdentifier>{F591A271-8719-3EFF-B04F-3DD4A91AA903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\third-party\easyloggingpp">
+      <UniqueIdentifier>{906145E1-5295-3E5E-AF7E-D66FDE57A49D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\third-party\easyloggingpp\src">
+      <UniqueIdentifier>{C7B6C977-6AF9-3AC4-980E-939AFABCD929}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\descriptor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\hotplug.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\strerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\sync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\os\threads_windows.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\os\poll_windows.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\os\windows_winusb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\os\windows_nt_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\os\windows_usbdk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\libusb\libusb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\third-party\libusb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{713B8EF3-2696-3877-85CF-C49F1F7C6BDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A2A8FB29-942E-3874-BF4A-0C05BE0658ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

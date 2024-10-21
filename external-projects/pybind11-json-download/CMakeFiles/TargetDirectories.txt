@@ -1,0 +1,3 @@
+C:/Users/98938/Desktop/realsense/build/external-projects/pybind11-json-download/CMakeFiles/pybind11_json.dir
+C:/Users/98938/Desktop/realsense/build/external-projects/pybind11-json-download/CMakeFiles/ALL_BUILD.dir
+C:/Users/98938/Desktop/realsense/build/external-projects/pybind11-json-download/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\model-views.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\notifications.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\calibration-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\ux-window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\ux-alignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\rs-config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\os.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\fw-update-helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\metadata-helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\output-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\measurement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\on-chip-calib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\updates-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\option-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\device-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\subdevice-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\processing-block-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\stream-model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\post-processing-filters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\sw-update\http-downloader.cpp">
+      <Filter>SW-Update</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\sw-update\dev-updates-profile.cpp">
+      <Filter>SW-Update</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\sw-update\versions-db-manager.cpp">
+      <Filter>SW-Update</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\reflectivity\reflectivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\utilities\imgui\wrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\tools\realsense-viewer\realsense-viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\imgui\imgui.cpp">
+      <Filter>3rd Party</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\imgui\imgui_draw.cpp">
+      <Filter>3rd Party</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\imgui\imgui_impl_glfw.cpp">
+      <Filter>3rd Party</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\glad\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\tinyfiledialogs\tinyfiledialogs.c">
+      <Filter>3rd Party</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\windows-app-bootstrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\animated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\float2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\float3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\float4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\matrix4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\rect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\rendering.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\model-views.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\notifications.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\calibration-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\viewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\ux-window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\ux-alignment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\rs-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\os.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\fw-update-helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\metadata-helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\output-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\measurement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\on-chip-calib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\updates-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\option-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\device-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\subdevice-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\processing-block-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\stream-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\post-processing-filters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\sw-update\http-downloader.h">
+      <Filter>SW-Update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\sw-update\dev-updates-profile.h">
+      <Filter>SW-Update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\sw-update\versions-db-manager.h">
+      <Filter>SW-Update</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\reflectivity\reflectivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\utilities\imgui\wrap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\imgui\imgui-fonts-karla.hpp">
+      <Filter>3rd Party</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\imgui\imgui-fonts-fontawesome.hpp">
+      <Filter>3rd Party</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\realsense-ui-advanced-mode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\post-processing-block-model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\post-processing-filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\post-processing-worker-filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\post-processing-filters-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\objects-in-frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\tinyfiledialogs\tinyfiledialogs.h">
+      <Filter>3rd Party</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\tools\realsense-viewer\res\resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\librealsense\tools\realsense-viewer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\98938\Desktop\realsense\librealsense\tools\realsense-viewer\res\realsense-viewer.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3rd Party">
+      <UniqueIdentifier>{4189E69D-599E-3928-B1B2-122E5BD733EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{16554D9F-BA45-33E5-8228-5317D97E9E3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{41C846CE-8BB6-3CCF-8758-BEE62AB476A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SW-Update">
+      <UniqueIdentifier>{2D79BE9C-7FE2-315F-B4C8-0D3797BEC096}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1D30A0B4-33F9-3622-87B4-DC4D39F01E1C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

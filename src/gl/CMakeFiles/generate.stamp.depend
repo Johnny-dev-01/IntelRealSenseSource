@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Users/98938/Desktop/realsense/librealsense/CMake/opengl_config.cmake
+C:/Users/98938/Desktop/realsense/librealsense/CMake/realsense2-glConfig.cmake.in
+C:/Users/98938/Desktop/realsense/librealsense/config/librealsense-gl.pc.in
+C:/Users/98938/Desktop/realsense/librealsense/src/gl/CMakeLists.txt

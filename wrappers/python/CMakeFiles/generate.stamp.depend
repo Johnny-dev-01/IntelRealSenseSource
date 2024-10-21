@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/98938/Desktop/realsense/librealsense/CMake/pyrealsense2Config.cmake.in
+C:/Users/98938/Desktop/realsense/librealsense/wrappers/python/CMakeLists.txt

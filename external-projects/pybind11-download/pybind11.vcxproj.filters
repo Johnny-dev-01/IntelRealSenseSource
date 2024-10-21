@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\0156bf7543068a763e317a9e84c73194\pybind11-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\3a56e62040ac8d1a96de3723b43e3ae6\pybind11-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\917fbed4b60a686b8de9a035de4abd87\pybind11.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\98938\Desktop\realsense\build\external-projects\pybind11-download\CMakeFiles\pybind11" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E344C57B-6958-31B1-BDAD-9C5581BD001C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

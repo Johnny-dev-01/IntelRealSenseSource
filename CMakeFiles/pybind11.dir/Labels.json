@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/pybind11"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/63d47cba9e1f59036e41dc9c0fa276bd/pybind11.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/a009c8430d78350b7a5e4b5716a75f6f/pybind11-complete.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-build.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-configure.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-download.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-install.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-patch.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-test.rule"
+		},
+		{
+			"file" : "C:/Users/98938/Desktop/realsense/build/CMakeFiles/24e574219720b7079c63184d577f8a1c/pybind11-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pybind11"
+		],
+		"name" : "pybind11"
+	}
+}

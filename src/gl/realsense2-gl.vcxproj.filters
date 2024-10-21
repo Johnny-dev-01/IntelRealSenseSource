@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\synthetic-stream-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\yuy2rgb-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\y4112rgb-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\pointcloud-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\rs-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\glad\glad.c">
+      <Filter>3rd Party</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\common\opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\pc-shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\camera-shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\upload.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\colorizer-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\align-gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\realsense-file\lz4\lz4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\synthetic-stream-gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\yuy2rgb-gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\y4112rgb-gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\pointcloud-gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2-gl\rs_processing_gl.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\include\librealsense2-gl\rs_processing_gl.hpp">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\common\opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\pc-shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\camera-shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\upload.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\colorizer-gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\align-gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\98938\Desktop\realsense\librealsense\third-party\realsense-file\lz4\lz4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\98938\Desktop\realsense\librealsense\src\gl\realsense-gl.def">
+      <Filter>API</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3rd Party">
+      <UniqueIdentifier>{4189E69D-599E-3928-B1B2-122E5BD733EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API">
+      <UniqueIdentifier>{389634D0-261B-3BFE-AE77-92C99FA53862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{16554D9F-BA45-33E5-8228-5317D97E9E3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1D30A0B4-33F9-3622-87B4-DC4D39F01E1C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
